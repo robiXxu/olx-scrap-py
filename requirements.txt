@@ -81,7 +81,7 @@ raven==6.9.0
 requests==2.19.1
 rsa==3.4.2
 s3transfer==0.1.11
-Scrapy==1.5.1
+Scrapy==2.6.2
 selenium==3.13.0
 service-identity==17.0.0
 singledispatch==3.4.0.3
