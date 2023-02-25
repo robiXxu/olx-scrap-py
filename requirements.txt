@@ -104,6 +104,6 @@ urllib3==1.23
 urwid==2.0.1
 w3lib==1.19.0
 websocket-client==0.48.0
-Werkzeug==0.15.3
+Werkzeug==2.2.3
 wrapt==1.10.11
 zope.interface==4.6.0
