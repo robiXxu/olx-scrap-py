@@ -35,7 +35,7 @@ gevent-websocket==0.10.1
 gitdb2==2.0.2
 GitPython==3.1.30
 greenlet==0.4.13
-grpcio==1.15.0
+grpcio==1.53.0
 hyperlink==18.0.0
 idna==2.6
 incremental==17.5.0
